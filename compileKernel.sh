@@ -103,5 +103,5 @@ else
 	error_exit "dksm install failed"
 fi
 
-echo "********* MMK completed successfully ********"
+echo "********* compileKernel completed successfully ********"
 exit
